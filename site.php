@@ -269,7 +269,7 @@ else{
 					</li>
 					<li class="">
 						<a href="#" class="dropdown-toggle">
-							<i class="menu-icon fa fa-list"></i>
+							<i class="menu-icon fa fa-code-fork"></i>
 							<span class="menu-text"> Traceability </span>
 							<b class="arrow fa fa-angle-down"></b>
 						</a>
@@ -296,8 +296,8 @@ else{
 					
 					<li class="">
 						<a href="#" class="dropdown-toggle">
-							<i class="menu-icon fa fa-shopping-cart"></i>
-							<span class="menu-text"> Transaksi </span>
+							<i class="menu-icon fa fa-pagelines"></i>
+							<span class="menu-text"> Arus Data Panen</span>
 							<b class="arrow fa fa-angle-down"></b>
 						</a>
 						<b class="arrow"></b>
@@ -311,7 +311,7 @@ else{
 							 <li class=""><a href="?halamane=transaksi_farm"><i class="menu-icon fa fa-caret-right"></i>Transaksi PETANI</a><b class="arrow"></b></li> 
 							  <li class=""><a href="?halamane=transaksi_p2"><i class="menu-icon fa fa-caret-right"></i>Transaksi PENGEPUL</a><b class="arrow"></b></li>
 							  <li class=""><a href="?halamane=transaksi_cpu"><i class="menu-icon fa fa-caret-right"></i>Buat Batch Produksi</a><b class="arrow"></b></li>
-							<li class=""><a href="?halamane=plantation"><i class="menu-icon fa fa-caret-right"></i>Plantation</a><b class="arrow"></b></li>
+						<!--	<li class=""><a href="?halamane=plantation"><i class="menu-icon fa fa-caret-right"></i>Plantation</a><b class="arrow"></b></li>-->
 							<!--<li class=""><a href="?halamane=status"><i class="menu-icon fa fa-caret-right"></i>Status</a><b class="arrow"></b></li>-->
 							<!-- <li class=""><a href="?halamane=divisi"><i class="menu-icon fa fa-caret-right"></i>Divisi</a><b class="arrow"></b></li>-->
 							<!-- <li class=""><a href="?halamane=sparepart"><i class="menu-icon fa fa-caret-right"></i>Sparepart</a><b class="arrow"></b></li>-->
@@ -334,7 +334,7 @@ else{
                 
 							</li>-->
               <!-- update v1.2-->
-							 <li class=""><a href="?halamane=order-plantation"><i class="menu-icon fa fa-caret-right"></i>Input Transaksi</a><b class="arrow"></b></li> 
+							 <li class=""><a href="?halamane=order-plantation"><i class="menu-icon fa fa-caret-right"></i>Transaksi</a><b class="arrow"></b></li> 
 							  <!--<li class=""><a href="?halamane=transaksi_p2"><i class="menu-icon fa fa-caret-right"></i>Transaksi PENGEPUL</a><b class="arrow"></b></li>
 							  <li class=""><a href="?halamane=transaksi_cpu"><i class="menu-icon fa fa-caret-right"></i>Buat Batch Produksi</a><b class="arrow"></b></li>-->
 							<!--<li class=""><a href="?halamane=plantation"><i class="menu-icon fa fa-caret-right"></i>Plantation</a><b class="arrow"></b></li>-->
