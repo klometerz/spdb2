@@ -331,7 +331,9 @@ else{
 									<i class="menu-icon fa fa-caret-right"></i>PO Report
 								</a>
 								<b class="arrow"></b>
+                
 							</li>-->
+              <!-- update v1.2-->
 							 <li class=""><a href="?halamane=order-plantation"><i class="menu-icon fa fa-caret-right"></i>Input Transaksi</a><b class="arrow"></b></li> 
 							  <!--<li class=""><a href="?halamane=transaksi_p2"><i class="menu-icon fa fa-caret-right"></i>Transaksi PENGEPUL</a><b class="arrow"></b></li>
 							  <li class=""><a href="?halamane=transaksi_cpu"><i class="menu-icon fa fa-caret-right"></i>Buat Batch Produksi</a><b class="arrow"></b></li>-->
