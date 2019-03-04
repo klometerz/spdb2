@@ -308,16 +308,17 @@ else{
 								</a>
 								<b class="arrow"></b>
 							</li>-->
-							 <li class=""><a href="?halamane=transaksi_farm"><i class="menu-icon fa fa-caret-right"></i>Pembelian Barang PETANI</a><b class="arrow"></b></li> 
-							  <li class=""><a href="?halamane=transaksi_p2"><i class="menu-icon fa fa-caret-right"></i>Pembelian Barang PENGEPUL</a><b class="arrow"></b></li>
-							  <li class=""><a href="?halamane=transaksi_cpu"><i class="menu-icon fa fa-caret-right"></i>Stok Raw Material CPU</a><b class="arrow"></b></li>
-							<!--<li class=""><a href="?halamane=prod_kode"><i class="menu-icon fa fa-caret-right"></i>Production Code</a><b class="arrow"></b></li>-->
+							 <li class=""><a href="?halamane=transaksi_farm"><i class="menu-icon fa fa-caret-right"></i>Transaksi PETANI</a><b class="arrow"></b></li> 
+							  <li class=""><a href="?halamane=transaksi_p2"><i class="menu-icon fa fa-caret-right"></i>Transaksi PENGEPUL</a><b class="arrow"></b></li>
+							  <li class=""><a href="?halamane=transaksi_cpu"><i class="menu-icon fa fa-caret-right"></i>Buat Batch Produksi</a><b class="arrow"></b></li>
+							<li class=""><a href="?halamane=plantation"><i class="menu-icon fa fa-caret-right"></i>Plantation</a><b class="arrow"></b></li>
 							<!--<li class=""><a href="?halamane=status"><i class="menu-icon fa fa-caret-right"></i>Status</a><b class="arrow"></b></li>-->
 							<!-- <li class=""><a href="?halamane=divisi"><i class="menu-icon fa fa-caret-right"></i>Divisi</a><b class="arrow"></b></li>-->
 							<!-- <li class=""><a href="?halamane=sparepart"><i class="menu-icon fa fa-caret-right"></i>Sparepart</a><b class="arrow"></b></li>-->
 							<!--<li class=""><a href="?halamane=vendor"><i class="menu-icon fa fa-caret-right"></i>Vendor</a><b class="arrow"></b></li>-->
 						</ul>
 					</li>
+          
 					<li class="">
 						<a href="#" class="dropdown-toggle">
 							<i class="menu-icon fa fa-file"></i>
