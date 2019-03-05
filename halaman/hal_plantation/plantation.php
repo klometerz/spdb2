@@ -157,7 +157,7 @@ $uniqid=$_POST['uniqid'];
     <div id="alert_message"></div>
 	<div class="table-responsive">
     <table id="user_data" class="table table-bordered table-stripe">
-	
+	<!-- Plantation Feature-->
      <thead>
       <tr>
        <th size="50%">Plot</th>
