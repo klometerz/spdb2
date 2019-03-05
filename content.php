@@ -27,6 +27,11 @@ else{
       include "halaman/hal_pengepul/pengepul2.php";
     }
   }
+  elseif ($_GET['halamane']=='trx_plantation'){
+    if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
+      include "halaman/hal_plantation/plantation2.php";
+    }
+  }
   elseif ($_GET['halamane']=='trx_p_detail'){
     if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
       include "halaman/hal_pengepul/aksidetailpengepul.php";
@@ -62,6 +67,11 @@ else{
       include "halaman/hal_pengepul/pengepul.php";
     }
   }
+  elseif ($_GET['halamane']=='trans_plantation'){
+    if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
+      include "halaman/hal_plantation/plantation.php";
+    }
+  }
     elseif ($_GET['halamane']=='input_transaksi_cpu'){
     if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
       include "halaman/hal_pengepul/input_transaksi_cpu.php";
@@ -87,6 +97,11 @@ else{
       include "halaman/hal_pengepul/transaksi.php";
     }
   }
+  elseif ($_GET['halamane']=='order-plantation'){
+    if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
+      include "halaman/hal_plantation/transaksi.php";
+    }
+  }
   elseif ($_GET['halamane']=='transaksi_p2'){
     if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
       include "halaman/hal_pengepul/transaksi_p2.php";
@@ -100,6 +115,11 @@ else{
   elseif ($_GET['halamane']=='input_transaksi_farm'){
     if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
       include "halaman/hal_pengepul/input_transaksi_farm.php";
+    }
+  }
+  elseif ($_GET['halamane']=='input_transaksi_plantation'){
+    if ($_SESSION['level']=='1' or $_SESSION['level']=='2' ){
+      include "halaman/hal_plantation/input_transaksi_plantation.php";
     }
   }
     elseif ($_GET['halamane']=='input_transaksi_p2'){
