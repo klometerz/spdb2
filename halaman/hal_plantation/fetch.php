@@ -46,6 +46,7 @@ while($row = mysqli_fetch_array($result))
 }
 //test
 //test2
+//test3 
 function get_all_data($connect)
 {
 	$id_trans=$_GET['id'];
