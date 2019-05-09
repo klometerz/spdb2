@@ -45,6 +45,7 @@ while($row = mysqli_fetch_array($result))
  $data[] = $sub_array;
 }
 //test
+//test2
 function get_all_data($connect)
 {
 	$id_trans=$_GET['id'];
