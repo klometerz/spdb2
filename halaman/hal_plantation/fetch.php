@@ -44,9 +44,7 @@ while($row = mysqli_fetch_array($result))
  $sub_array[] = '<button type="button" name="delete" class="btn btn-danger btn-xs delete" id="'.$row["id_trx_detail"].'">Delete</button>';
  $data[] = $sub_array;
 }
-//test
-//test2
-//test3 
+// want to add something new about gopay
 function get_all_data($connect)
 {
 	$id_trans=$_GET['id'];
